@@ -25,26 +25,10 @@
 
 ## Prerequisites
 
-- npm >=5.5.0
-- node >=9.3.0
+- A lot of desire to know java programming!!
 
 ## Install
-
-```sh
-npm install
-```
-
-## Usage
-
-```sh
-npm run start
-```
-
-## Run tests
-
-```sh
-npm run test
-```
+- IntelliJ IDEA
 
 ## Author
 
